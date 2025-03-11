@@ -96,7 +96,7 @@ exports[`BaseToast Component Error renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -116,7 +116,7 @@ exports[`BaseToast Component Error renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -232,7 +232,7 @@ exports[`BaseToast Component Info renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -252,7 +252,7 @@ exports[`BaseToast Component Info renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -368,7 +368,7 @@ exports[`BaseToast Component Success renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -388,7 +388,7 @@ exports[`BaseToast Component Success renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -504,7 +504,7 @@ exports[`BaseToast Component Warn renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {
@@ -524,7 +524,7 @@ exports[`BaseToast Component Warn renders correctly 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
             },
             Object {

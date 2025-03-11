@@ -28,7 +28,7 @@ exports[`InfoTextBox Component Renders correctly 1`] = `
         Object {
           "color": "#000000",
           "flexShrink": 1,
-          "fontFamily": "Raleway-Light",
+          "fontFamily": "OpenSans-Light",
           "fontSize": 18,
         },
         Object {

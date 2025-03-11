@@ -37,7 +37,7 @@ Array [
           Object {
             "color": "#000000",
             "flexGrow": 1,
-            "fontFamily": "Raleway-Bold",
+            "fontFamily": "OpenSans-Bold",
             "fontSize": 18,
             "paddingBottom": 12,
             "textAlign": "center",
@@ -147,7 +147,7 @@ Array [
           Object {
             "color": "#000000",
             "flexGrow": 1,
-            "fontFamily": "Raleway-Bold",
+            "fontFamily": "OpenSans-Bold",
             "fontSize": 18,
             "paddingBottom": 12,
             "textAlign": "center",

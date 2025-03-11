@@ -27,7 +27,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
         style={
           Object {
             "color": "#000000",
-            "fontFamily": "Raleway-Regular",
+            "fontFamily": "OpenSans-Regular",
             "fontSize": 32,
             "marginBottom": 15,
           }
@@ -39,7 +39,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
         style={
           Object {
             "color": "#000000",
-            "fontFamily": "Raleway-Light",
+            "fontFamily": "OpenSans-Light",
             "fontSize": 18,
           }
         }
@@ -58,7 +58,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
           style={
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
               "paddingRight": 5,
             }
@@ -71,7 +71,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
               },
               Object {
@@ -95,7 +95,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
           style={
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
               "paddingRight": 5,
             }
@@ -108,7 +108,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
               },
               Object {
@@ -132,7 +132,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
           style={
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
               "paddingRight": 5,
             }
@@ -145,7 +145,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
               },
               Object {
@@ -169,7 +169,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
           style={
             Object {
               "color": "#000000",
-              "fontFamily": "Raleway-Light",
+              "fontFamily": "OpenSans-Light",
               "fontSize": 18,
               "paddingRight": 5,
             }
@@ -182,7 +182,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#000000",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
               },
               Object {
@@ -198,7 +198,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
         style={
           Object {
             "color": "#000000",
-            "fontFamily": "Raleway-Light",
+            "fontFamily": "OpenSans-Light",
             "fontSize": 18,
           }
         }
@@ -214,7 +214,7 @@ exports[`WhatAreContacts Screen Renders correctly 1`] = `
               Object {
                 "alignSelf": "flex-start",
                 "color": "#cb7ca3",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
                 "textDecorationLine": "underline",
               },

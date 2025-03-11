@@ -37,7 +37,7 @@ exports[`CameraDisclosureModal Component Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#313132",
-                "fontFamily": "Raleway-Regular",
+                "fontFamily": "OpenSans-Regular",
                 "fontSize": 38,
               },
             ]
@@ -51,7 +51,7 @@ exports[`CameraDisclosureModal Component Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#313132",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
               },
               Object {
@@ -67,7 +67,7 @@ exports[`CameraDisclosureModal Component Renders correctly 1`] = `
             Array [
               Object {
                 "color": "#313132",
-                "fontFamily": "Raleway-Light",
+                "fontFamily": "OpenSans-Light",
                 "fontSize": 18,
               },
               Object {
@@ -152,7 +152,7 @@ exports[`CameraDisclosureModal Component Renders correctly 1`] = `
                 Array [
                   Object {
                     "color": "#FFFFFF",
-                    "fontFamily": "Raleway-Bold",
+                    "fontFamily": "OpenSans-Bold",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -229,7 +229,7 @@ exports[`CameraDisclosureModal Component Renders correctly 1`] = `
                 Array [
                   Object {
                     "color": "#E31937",
-                    "fontFamily": "Raleway-Bold",
+                    "fontFamily": "OpenSans-Bold",
                     "fontSize": 18,
                     "textAlign": "center",
                   },

@@ -23,7 +23,7 @@ exports[`Link Component Renders correctly, testID exists, and is pressable 1`] =
       Object {
         "alignSelf": "flex-start",
         "color": "#cb7ca3",
-        "fontFamily": "Raleway-Light",
+        "fontFamily": "OpenSans-Light",
         "fontSize": 18,
         "textDecorationLine": "underline",
       },

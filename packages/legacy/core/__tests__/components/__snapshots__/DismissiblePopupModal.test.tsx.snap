@@ -137,7 +137,7 @@ exports[`DismissiblePopupModal Component Renders correctly with call to action 1
                 Object {
                   "alignSelf": "flex-start",
                   "color": "#FFFFFF",
-                  "fontFamily": "Raleway-Bold",
+                  "fontFamily": "OpenSans-Bold",
                   "fontSize": 18,
                 }
               }
@@ -255,7 +255,7 @@ exports[`DismissiblePopupModal Component Renders correctly with call to action 1
                   style={
                     Object {
                       "color": "#FFFFFF",
-                      "fontFamily": "Raleway-Light",
+                      "fontFamily": "OpenSans-Light",
                       "fontSize": 18,
                       "paddingVertical": 16,
                     }
@@ -328,7 +328,7 @@ exports[`DismissiblePopupModal Component Renders correctly with call to action 1
                     Array [
                       Object {
                         "color": "#FFFFFF",
-                        "fontFamily": "Raleway-Bold",
+                        "fontFamily": "OpenSans-Bold",
                         "fontSize": 18,
                         "textAlign": "center",
                       },
@@ -487,7 +487,7 @@ exports[`DismissiblePopupModal Component Renders correctly without call to actio
                 Object {
                   "alignSelf": "flex-start",
                   "color": "#FFFFFF",
-                  "fontFamily": "Raleway-Bold",
+                  "fontFamily": "OpenSans-Bold",
                   "fontSize": 18,
                 }
               }
@@ -605,7 +605,7 @@ exports[`DismissiblePopupModal Component Renders correctly without call to actio
                   style={
                     Object {
                       "color": "#FFFFFF",
-                      "fontFamily": "Raleway-Light",
+                      "fontFamily": "OpenSans-Light",
                       "fontSize": 18,
                       "paddingVertical": 16,
                     }

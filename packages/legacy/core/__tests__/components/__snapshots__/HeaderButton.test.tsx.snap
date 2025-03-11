@@ -220,7 +220,7 @@ exports[`HeaderButton Component Right alignment with text renders correctly 1`] 
         Array [
           Object {
             "color": "#FFFFFF",
-            "fontFamily": "Raleway-Regular",
+            "fontFamily": "OpenSans-Regular",
             "fontSize": 14,
             "marginRight": 4,
           },
